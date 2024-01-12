@@ -1,4 +1,4 @@
-# HR Insights Unlocked: Power BI Optimizes Work Dynamics (WFH, Wellness, Presence)
+# HR Analytics using Power BI(WFH, Wellness, Presence)
 
 ### Goal:
 Leverage data analysis for improved employee management and decision-making.
